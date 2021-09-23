@@ -1,0 +1,40 @@
+{
+  "name": "Tetcoin Default list",
+  "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET.jpg",
+  "keywords": [
+      "tetcoin",
+      "defi"
+  ],
+  "timestamp": "2021-09-07T12:37:57.000+00:00",
+  "tokens": [
+        {
+            "chainId": 137,
+            "address": "0x43308565c0204c8076a291f0726f914c3133ce34",
+            "name": "Tetcoin",
+            "symbol": "TET",
+            "decimals": 18,
+            "logoURI": "https://github.com/tetcoin/tetcoin.github.io/raw/main/img/TET-transparent-200.png"
+        },
+      {
+          "chainId": 137,
+          "address": "0xcd9c7397b0ef2e9b2a9440d61b0e1e3351a38a28",
+          "name": "Litetokens",
+          "symbol": "XLT",
+          "decimals": 18,
+          "logoURI": "https://github.com/litetokens/litetokens.github.io/raw/main/img/xlt200.png"
+      },
+      {
+          "chainId": 137,
+          "address": "0xd422089785ada2762343b209b43bc48dd7ad4ae9",
+          "name": "Czarcoin",
+          "symbol": "CZR",
+          "decimals": 18,
+          "logoURI": "https://github.com/czarcoin/czarcoin.github.io/raw/main/img/czr.png"
+      }
+  ],
+  "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+  }
+}
